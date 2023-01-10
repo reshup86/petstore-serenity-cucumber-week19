@@ -1,0 +1,11 @@
+PETID,CATEGORYID,CATEGORYNAME,NAME,PHOTOURLS,TAGID,TAGNAME,STATUS
+1,8,cat,Ring-tailed coatimundi,http://dummyimage.com/156x100.png/dddddd/000000,106,Eleven-banded armadillo (unidentified),Bald eagle
+2,15,cat,Magnificent frigate bird,http://dummyimage.com/241x100.png/5fa2dd/ffffff,105,Musk ox,European beaver
+3,9,cat,Columbian rainbow boa,http://dummyimage.com/212x100.png/cc0000/ffffff,106,"Vulture, bengal",Water monitor
+4,9,dog,"Squirrel, pine",http://dummyimage.com/109x100.png/cc0000/ffffff,103,"Badger, american","Heron, green-backed"
+5,3,dog,Prehensile-tailed porcupine,http://dummyimage.com/201x100.png/5fa2dd/ffffff,101,Pronghorn,"Boar, wild"
+6,7,dog,"Waterbuck, common",http://dummyimage.com/163x100.png/dddddd/000000,102,Eastern grey kangaroo,Masked booby
+7,8,dog,Three-banded plover,http://dummyimage.com/190x100.png/ff4444/ffffff,108,African red-eyed bulbul,Pacific gull
+8,1,dog,Cape wild cat,http://dummyimage.com/213x100.png/5fa2dd/ffffff,103,"Turkey, common","Wolf, common"
+9,9,cat,"Moorhen, purple",http://dummyimage.com/205x100.png/5fa2dd/ffffff,101,Egyptian cobra,Genoveva
+10,11,dog,Red-billed toucan,http://dummyimage.com/226x100.png/5fa2dd/ffffff,106,"Skunk, striped",White-throated monitor

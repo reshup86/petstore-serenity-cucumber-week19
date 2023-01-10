@@ -1,0 +1,10 @@
+io\swagger\petstore\testsuite\PetsTagTest.class
+io\swagger\petstore\cucumber\steps\MyStepdefs_pets.class
+io\swagger\petstore\cucumber\steps\MyStepdefs_users.class
+io\swagger\petstore\testsuite\UserDataDrivenTest.class
+io\swagger\petstore\testsuite\PetsDataDrivenTest.class
+io\swagger\petstore\testsuite\PetsCRUDTest.class
+io\swagger\petstore\cucumber\CucumberRunner.class
+io\swagger\petstore\testbase\TestBase.class
+io\swagger\petstore\testsuite\UserTagTest.class
+io\swagger\petstore\testsuite\UsersCRUDTest.class
